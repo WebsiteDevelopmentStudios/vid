@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://image.tmdb.org" crossorigin >
+    <link rel="preconnect" href="https://api.themoviedb.org" crossorigin >
+    <link rel="dns-prefetch" href="https://image.tmdb.org" >
+    <link rel="dns-prefetch" href="https://api.themoviedb.org" >
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" >
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=optional" media="print" onload="this.media='all'; document.documentElement.classList.add('fonts-loaded');" >
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=optional" /></noscript>
+
+    <meta charset="UTF-8" ><link rel="preload" as="image" type="image/webp" href="/assets/hero-lcp-mobile.webp" media="(max-width: 768px)" fetchpriority="high" data-lcp-preload="hero-mobile" ><link rel="preload" as="image" type="image/webp" href="/assets/hero-lcp-desktop.webp" media="(min-width: 769px)" fetchpriority="high" data-lcp-preload="hero-desktop" >
+    <link rel="preload" as="style" href="/assets/style-B4wNEF-9.css" crossorigin onload="this.onload=null;this.rel='stylesheet'" >
+    <noscript><link rel="stylesheet" crossorigin href="/assets/style-B4wNEF-9.css"></noscript>
+    <meta name="google-site-verification" content="R06TYeUpJIIPX_s8hq-W_Qzn8-pPMMd0MiXzddlt3M8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" >
+    <meta name="mobile-web-app-capable" content="yes" >
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" >
+
+    <title>Cineby - Watch Free Movies & TV Shows Online</title>
+    <meta name="title" content="Cineby - Watch Free Movies & TV Shows Online">
+    <meta name="description" content="Cineby — watch free movies and TV shows online in HD. Browse thousands of films and series on the official Cineby site. No signup required.">
+    <meta name="author" content="Cineby" >
+    <meta name="robots" content="index, follow" >
+
+    <meta property="og:type" content="website" >
+    <meta property="og:url" content="https://cineby.tech/">
+    <meta property="og:title" content="Cineby - Watch Free Movies & TV Shows Online">
+    <meta property="og:description" content="Cineby — watch free movies and TV shows online in HD. Browse thousands of films and series on the official Cineby site. No signup required.">
+    <meta property="og:locale" content="en_US" >
+    <meta property="og:image" content="https://image.tmdb.org/t/p/w780/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg">
+    <meta property="og:image:width" content="1200" >
+    <meta property="og:image:height" content="630" >
+    <meta property="og:site_name" content="Cineby" >
+
+    <meta property="twitter:card" content="summary_large_image" >
+    <meta property="twitter:url" content="https://cineby.tech/">
+    <meta property="twitter:title" content="Cineby - Watch Free Movies & TV Shows Online">
+    <meta property="twitter:description" content="Cineby — watch free movies and TV shows online in HD. Browse thousands of films and series on the official Cineby site. No signup required.">
+    <meta property="twitter:image" content="https://image.tmdb.org/t/p/w780/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg">
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/cineby-logo-32.png" >
+    <link rel="shortcut icon" type="image/png" href="/cineby-logo-32.png" >
+    <link rel="apple-touch-icon" sizes="180x180" href="/cineby-logo-180.png" >
+    <link rel="apple-touch-icon-precomposed" href="/cineby-logo-180.png" >
+
+    <link rel="canonical" href="https://cineby.tech/">
+
+    <script type="application/ld+json" data-entity-schema="true">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://cineby.tech/#organization",
+          "name": "Cineby",
+          "alternateName": "Cineby.tech",
+          "url": "https://cineby.tech",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://cineby.tech/#logo",
+            "url": "https://cineby.tech/cineby-logo.png",
+            "width": 512,
+            "height": 512
+          },
+          "description": "Cineby is a free movie and TV discovery platform at cineby.tech. It helps users find titles, details, ratings, and where to watch. Cineby does not host video files. cineby.tech is the only official Cineby domain.",
+          "foundingDate": "2024",
+          "email": "contact@cineby.tech",
+          "sameAs": [
+            "https://www.reddit.com/r/CinebyOfficial/",
+            "https://cineby.tech"
+          ],
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "email": "contact@cineby.tech",
+            "url": "https://cineby.tech/contact"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://cineby.tech/#website",
+          "name": "Cineby",
+          "url": "https://cineby.tech",
+          "description": "Cineby — watch free movies and TV shows online in HD. Browse thousands of films and series on the official Cineby site. No signup required.",
+          "publisher": { "@id": "https://cineby.tech/#organization" },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://cineby.tech/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://cineby.tech/faq#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is Cineby?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cineby is a free discovery website for movies and TV at cineby.tech. It helps you find titles, details, ratings, and where to watch via third-party embedded players. Cineby does not host video files."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Cineby free?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Browsing and watching through Cineby is free and you do not need a Cineby account. Playback comes from external sources; availability and quality depend on those providers and your region."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the official Cineby website?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The only official Cineby domain is cineby.tech. Sites such as cineby.app, cineby.ru, and third-party app-store listings named Cineby are not affiliated with the official Cineby team unless listed at cineby.tech/official."
+              }
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+    <script>
+      (function () {
+        if (typeof window === 'undefined') return;
+        var nativeConsoleError = typeof console !== 'undefined' && console.error ? console.error.bind(console) : function () {};
+        function isKnownIframeNoise(message, filename) {
+          var messageText = String(message || '');
+          var sourceText = String(filename || '');
+          var combinedText = messageText + ' ' + sourceText;
+          var hasIframeSecurityPattern = /Blocked a frame with origin|cross-origin frame|Failed to read a named property|SecurityError/i.test(combinedText);
+          var referencesPlayerHost = /vidnest\.fun/i.test(messageText) || /vidnest\.fun/i.test(sourceText);
+          return hasIframeSecurityPattern && referencesPlayerHost;
+        }
+        function reportClientIssue(type, payload) {
+          try {
+            if (payload && isKnownIframeNoise(payload.message, payload.filename)) return;
+            if (!payload || (!payload.message && !payload.stack && !payload.filename)) return;
+            nativeConsoleError('[Cineby:' + type + ']', payload || {});
+            var host = location.hostname;
+            var isLocal = host === 'localhost' || host === '127.0.0.1';
+            if (isLocal || !navigator || typeof navigator.sendBeacon !== 'function') return;
+            // No logging endpoint in production — keep console-only reporting.
+            return;
+          } catch (_) {}
+        }
+        window.addEventListener('error', function (event) {
+          var target = event && event.target;
+          if (target && (target.tagName === 'SCRIPT' || target.tagName === 'LINK')) return;
+          var message = event && (event.message || (event.error && event.error.message)) || '';
+          var filename = event && event.filename || '';
+          var stack = event && event.error && event.error.stack || '';
+          reportClientIssue('error', { message: message, filename: filename, stack: stack });
+        }, true);
+        window.addEventListener('unhandledrejection', function (event) {
+          var reason = event && event.reason;
+          var message = reason && reason.message ? reason.message : String(reason || 'Unhandled rejection');
+          reportClientIssue('unhandledrejection', { message: message });
+        });
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/main-BQaVeBWa.js"></script>
+    
+    
+    
+    
+    
+    
+    
+  </head>
+
+  <body>
+    <div id="root"><main id="main-content" style="background:#000;color:#fff;font-family:Raleway,system-ui;min-height:100vh;box-sizing:border-box">
+  <div style="max-width:1280px;margin:0 auto;padding:5rem 1rem 1.5rem">
+    <h1 style="font-size:clamp(1.75rem,5vw,3rem);font-weight:900;margin:0 0 1rem;line-height:1.15">Cineby - Watch Free Movies &amp; TV Shows Online</h1>
+    <p style="color:#d1d5db;font-size:1rem;line-height:1.7;margin:0 0 1rem;max-width:42rem">Cineby — watch free movies and TV shows online in HD. Browse thousands of films and series on the official Cineby site. No signup required.</p>
+    <h2 style="font-size:clamp(1.25rem,3vw,2rem);font-weight:800;margin:1.5rem 0 0.75rem;line-height:1.2;text-transform:uppercase">The Super Mario Galaxy Movie</h2>
+    <p style="color:#e5e7eb;font-size:0.9375rem;line-height:1.65;margin:0 0 1rem;max-width:42rem">Having thwarted Bowser&#39;s previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir&#39;s crusade.</p>
+  </div>
+  <div style="width:100%;margin-bottom:1rem"><picture style="display:block;width:100%;max-height:52vh;overflow:hidden">
+    <source media="(min-width:769px)" type="image/webp" srcset="/assets/hero-lcp-desktop.webp" >
+    <source media="(max-width:768px)" type="image/webp" srcset="/assets/hero-lcp-mobile.webp" >
+    <img src="/assets/hero-lcp-mobile.webp" alt="" fetchpriority="high" loading="eager" decoding="async" width="1280" height="720" style="width:100%;aspect-ratio:16/9;max-height:52vh;object-fit:cover;object-position:center top" >
+  </picture></div>
+  <div style="max-width:1280px;margin:0 auto;padding:0 1rem 2.5rem">
+    <h2 style="font-size:1.25rem;font-weight:700;margin:0 0 0.5rem">Trending on Cineby</h2>
+    <p style="color:#9ca3af;font-size:0.875rem;margin:0 0 0.75rem">Browse free movies and TV shows — no signup required.</p>
+    <div style="display:flex;flex-wrap:wrap;gap:12px;margin-top:1rem">
+        <a href="https://cineby.tech/movie/1226863/watch" style="display:block;width:148px;flex-shrink:0">
+              <img src="https://image.tmdb.org/t/p/w185/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg" alt="The Super Mario Galaxy Movie" width="185" height="278" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:18px;border:1px solid rgba(255,255,255,0.1)" >
+              <span style="display:block;margin-top:0.5rem;font-size:0.8125rem;font-weight:600;line-height:1.3;color:#fff">The Super Mario Galaxy Movie</span>
+            </a><a href="https://cineby.tech/movie/1523145/watch" style="display:block;width:148px;flex-shrink:0">
+              <img src="https://image.tmdb.org/t/p/w185/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg" alt="Your Heart Will Be Broken" width="185" height="278" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:18px;border:1px solid rgba(255,255,255,0.1)" >
+              <span style="display:block;margin-top:0.5rem;font-size:0.8125rem;font-weight:600;line-height:1.3;color:#fff">Your Heart Will Be Broken</span>
+            </a><a href="https://cineby.tech/movie/83533/watch" style="display:block;width:148px;flex-shrink:0">
+              <img src="https://image.tmdb.org/t/p/w185/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg" alt="Avatar: Fire and Ash" width="185" height="278" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:18px;border:1px solid rgba(255,255,255,0.1)" >
+              <span style="display:block;margin-top:0.5rem;font-size:0.8125rem;font-weight:600;line-height:1.3;color:#fff">Avatar: Fire and Ash</span>
+            </a><a href="https://cineby.tech/movie/687163/watch" style="display:block;width:148px;flex-shrink:0">
+              <img src="https://image.tmdb.org/t/p/w185/yihdXomYb5kTeSivtFndMy5iDmf.jpg" alt="Project Hail Mary" width="185" height="278" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:18px;border:1px solid rgba(255,255,255,0.1)" >
+              <span style="display:block;margin-top:0.5rem;font-size:0.8125rem;font-weight:600;line-height:1.3;color:#fff">Project Hail Mary</span>
+            </a><a href="https://cineby.tech/movie/980431/watch" style="display:block;width:148px;flex-shrink:0">
+              <img src="https://image.tmdb.org/t/p/w185/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg" alt="Avatar: Aang, The Last Airbender" width="185" height="278" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:18px;border:1px solid rgba(255,255,255,0.1)" >
+              <span style="display:block;margin-top:0.5rem;font-size:0.8125rem;font-weight:600;line-height:1.3;color:#fff">Avatar: Aang, The Last Airbender</span>
+            </a><a href="https://cineby.tech/movie/1290417/watch" style="display:block;width:148px;flex-shrink:0">
+              <img src="https://image.tmdb.org/t/p/w185/adk8weka3O5648g3de4z3y4aE7G.jpg" alt="Thrash" width="185" height="278" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:18px;border:1px solid rgba(255,255,255,0.1)" >
+              <span style="display:block;margin-top:0.5rem;font-size:0.8125rem;font-weight:600;line-height:1.3;color:#fff">Thrash</span>
+            </a><a href="https://cineby.tech/movie/1327819/watch" style="display:block;width:148px;flex-shrink:0">
+              <img src="https://image.tmdb.org/t/p/w185/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg" alt="Hoppers" width="185" height="278" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:18px;border:1px solid rgba(255,255,255,0.1)" >
+              <span style="display:block;margin-top:0.5rem;font-size:0.8125rem;font-weight:600;line-height:1.3;color:#fff">Hoppers</span>
+            </a><a href="https://cineby.tech/movie/1470130/watch" style="display:block;width:148px;flex-shrink:0">
+              <img src="https://image.tmdb.org/t/p/w185/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg" alt="The Mortuary Assistant" width="185" height="278" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:18px;border:1px solid rgba(255,255,255,0.1)" >
+              <span style="display:block;margin-top:0.5rem;font-size:0.8125rem;font-weight:600;line-height:1.3;color:#fff">The Mortuary Assistant</span>
+            </a><a href="https://cineby.tech/tv/76479/watch" style="display:block;width:148px;flex-shrink:0">
+              <img src="https://image.tmdb.org/t/p/w185/in1R2dDc421JxsoRWaIIAqVI2KE.jpg" alt="The Boys" width="185" height="278" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:18px;border:1px solid rgba(255,255,255,0.1)" >
+              <span style="display:block;margin-top:0.5rem;font-size:0.8125rem;font-weight:600;line-height:1.3;color:#fff">The Boys</span>
+            </a><a href="https://cineby.tech/tv/85552/watch" style="display:block;width:148px;flex-shrink:0">
+              <img src="https://image.tmdb.org/t/p/w185/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg" alt="Euphoria" width="185" height="278" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:18px;border:1px solid rgba(255,255,255,0.1)" >
+              <span style="display:block;margin-top:0.5rem;font-size:0.8125rem;font-weight:600;line-height:1.3;color:#fff">Euphoria</span>
+            </a><a href="https://cineby.tech/tv/79744/watch" style="display:block;width:148px;flex-shrink:0">
+              <img src="https://image.tmdb.org/t/p/w185/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg" alt="The Rookie" width="185" height="278" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:18px;border:1px solid rgba(255,255,255,0.1)" >
+              <span style="display:block;margin-top:0.5rem;font-size:0.8125rem;font-weight:600;line-height:1.3;color:#fff">The Rookie</span>
+            </a><a href="https://cineby.tech/tv/95557/watch" style="display:block;width:148px;flex-shrink:0">
+              <img src="https://image.tmdb.org/t/p/w185/4tblBrslcKSifMVZ3TmtT2ukMor.jpg" alt="INVINCIBLE" width="185" height="278" loading="lazy" decoding="async" style="width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:18px;border:1px solid rgba(255,255,255,0.1)" >
+              <span style="display:block;margin-top:0.5rem;font-size:0.8125rem;font-weight:600;line-height:1.3;color:#fff">INVINCIBLE</span>
+            </a>
+      </div>
+  </div>
+</main></div>
+    <script>
+      window.addEventListener('load', function () {
+        function loadGtag() {
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-0Y0TQBE31J';
+          document.head.appendChild(s);
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          window.gtag = gtag;
+          gtag('js', new Date());
+          gtag('config', 'G-0Y0TQBE31J');
+        }
+        if ('requestIdleCallback' in window) {
+          requestIdleCallback(loadGtag, { timeout: 12000 });
+        } else {
+          setTimeout(loadGtag, 8000);
+        }
+      });
+    </script>
+  <script id="__PRERENDER_DATA__">window.__PRERENDER_DATA__ = {"path":"/","payload":{"id":1226863,"media_type":"movie","title":"The Super Mario Galaxy Movie","name":"The Super Mario Galaxy Movie","overview":"Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.","release_date":"2026-04-01","first_air_date":null,"poster_path":"/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg","backdrop_path":"/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg","popularity":718.7308,"vote_average":6.817},"heroSlides":[{"id":1226863,"media_type":"movie","title":"The Super Mario Galaxy Movie","name":"The Super Mario Galaxy Movie","overview":"Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.","release_date":"2026-04-01","first_air_date":null,"poster_path":"/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg","backdrop_path":"/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg","popularity":718.7308,"vote_average":6.817},{"id":76479,"media_type":"tv","title":"The Boys","name":"The Boys","overview":"A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.","release_date":"2019-07-25","first_air_date":"2019-07-25","poster_path":"/in1R2dDc421JxsoRWaIIAqVI2KE.jpg","backdrop_path":"/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg","popularity":680.2548,"vote_average":8.44},{"id":85552,"media_type":"tv","title":"Euphoria","name":"Euphoria","overview":"A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.","release_date":"2019-06-16","first_air_date":"2019-06-16","poster_path":"/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg","backdrop_path":"/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg","popularity":417.363,"vote_average":8.282},{"id":1523145,"media_type":"movie","title":"Your Heart Will Be Broken","name":"Your Heart Will Be Broken","overview":"High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.","release_date":"2026-03-26","first_air_date":null,"poster_path":"/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg","backdrop_path":"/1x9e0qWonw634NhIsRdvnneeqvN.jpg","popularity":377.5413,"vote_average":7.213},{"id":83533,"media_type":"movie","title":"Avatar: Fire and Ash","name":"Avatar: Fire and Ash","overview":"In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.","release_date":"2025-12-17","first_air_date":null,"poster_path":"/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg","backdrop_path":"/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg","popularity":306.1776,"vote_average":7.372}],"heroLcp":{"mobile":"/assets/hero-lcp-mobile.webp","desktop":"/assets/hero-lcp-desktop.webp"},"generatedAt":"2026-07-24T13:37:24.192Z","topTrendingMovies":[{"id":1226863,"media_type":"movie","title":"The Super Mario Galaxy Movie","name":"The Super Mario Galaxy Movie","overview":"Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.","release_date":"2026-04-01","first_air_date":null,"poster_path":"/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg","backdrop_path":"/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg","popularity":718.7308,"vote_average":6.817},{"id":1523145,"media_type":"movie","title":"Your Heart Will Be Broken","name":"Your Heart Will Be Broken","overview":"High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.","release_date":"2026-03-26","first_air_date":null,"poster_path":"/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg","backdrop_path":"/1x9e0qWonw634NhIsRdvnneeqvN.jpg","popularity":377.5413,"vote_average":7.213},{"id":83533,"media_type":"movie","title":"Avatar: Fire and Ash","name":"Avatar: Fire and Ash","overview":"In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.","release_date":"2025-12-17","first_air_date":null,"poster_path":"/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg","backdrop_path":"/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg","popularity":306.1776,"vote_average":7.372},{"id":687163,"media_type":"movie","title":"Project Hail Mary","name":"Project Hail Mary","overview":"Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.","release_date":"2026-03-15","first_air_date":null,"poster_path":"/yihdXomYb5kTeSivtFndMy5iDmf.jpg","backdrop_path":"/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg","popularity":263.6881,"vote_average":8.214},{"id":980431,"media_type":"movie","title":"Avatar: Aang, The Last Airbender","name":"Avatar: Aang, The Last Airbender","overview":"Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.","release_date":"2026-10-09","first_air_date":null,"poster_path":"/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg","backdrop_path":"/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg","popularity":235.9757,"vote_average":0},{"id":1290417,"media_type":"movie","title":"Thrash","name":"Thrash","overview":"When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.","release_date":"2026-04-10","first_air_date":null,"poster_path":"/adk8weka3O5648g3de4z3y4aE7G.jpg","backdrop_path":"/gGFh3upk94dtq0kYitcg0FZ24ef.jpg","popularity":222.0529,"vote_average":5.967},{"id":1327819,"media_type":"movie","title":"Hoppers","name":"Hoppers","overview":"Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.","release_date":"2026-03-04","first_air_date":null,"poster_path":"/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg","backdrop_path":"/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg","popularity":220.5682,"vote_average":7.6},{"id":1470130,"media_type":"movie","title":"The Mortuary Assistant","name":"The Mortuary Assistant","overview":"Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.","release_date":"2026-02-13","first_air_date":null,"poster_path":"/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg","backdrop_path":"/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg","popularity":214.7007,"vote_average":5.514},{"id":1084577,"media_type":"movie","title":"Balls Up","name":"Balls Up","overview":"Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.","release_date":"2026-04-15","first_air_date":null,"poster_path":"/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg","backdrop_path":"/jRsjWwZzI39bTm44FNhRtiICd9k.jpg","popularity":212.7175,"vote_average":5.457},{"id":502356,"media_type":"movie","title":"The Super Mario Bros. Movie","name":"The Super Mario Bros. Movie","overview":"While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.","release_date":"2023-04-05","first_air_date":null,"poster_path":"/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg","backdrop_path":"/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg","popularity":202.3205,"vote_average":7.587}],"topTrendingSeries":[{"id":76479,"media_type":"tv","title":"The Boys","name":"The Boys","overview":"A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.","release_date":"2019-07-25","first_air_date":"2019-07-25","poster_path":"/in1R2dDc421JxsoRWaIIAqVI2KE.jpg","backdrop_path":"/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg","popularity":680.2548,"vote_average":8.44},{"id":85552,"media_type":"tv","title":"Euphoria","name":"Euphoria","overview":"A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.","release_date":"2019-06-16","first_air_date":"2019-06-16","poster_path":"/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg","backdrop_path":"/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg","popularity":417.363,"vote_average":8.282},{"id":79744,"media_type":"tv","title":"The Rookie","name":"The Rookie","overview":"Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.","release_date":"2018-10-16","first_air_date":"2018-10-16","poster_path":"/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg","backdrop_path":"/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg","popularity":266.4223,"vote_average":8.537},{"id":95557,"media_type":"tv","title":"INVINCIBLE","name":"INVINCIBLE","overview":"Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.","release_date":"2021-03-25","first_air_date":"2021-03-25","poster_path":"/4tblBrslcKSifMVZ3TmtT2ukMor.jpg","backdrop_path":"/9qrroces8C6R9aKr08hACNPVXdZ.jpg","popularity":243.9362,"vote_average":8.629},{"id":110075,"media_type":"tv","title":"Trespassing","name":"Trespassing","overview":"","release_date":"1994-01-31","first_air_date":"1994-01-31","poster_path":"/rZan9uyHoK5jY0DtN5w4XgwN362.jpg","backdrop_path":"/eEOG92ZjryhwNAf3ek2fgZsCRdl.jpg","popularity":240.2766,"vote_average":0},{"id":35007,"media_type":"tv","title":"De Fabeltjeskrant","name":"De Fabeltjeskrant","overview":"Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in 1968 by Leen Valkenier and produced by Thijs Chanowski and Loek de Levita, it ended in 1989 and was broadcast on the Dutch channels NOS, RTL 4 and RTL 8 and on Belgian channel VRT. From 1973 to 1975 it was broadcast also in the United Kingdom, on ITV, with the title The Daily Fable.","release_date":"1968-09-29","first_air_date":"1968-09-29","poster_path":"/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg","backdrop_path":null,"popularity":206.2704,"vote_average":7.333},{"id":2734,"media_type":"tv","title":"Law & Order: Special Victims Unit","name":"Law & Order: Special Victims Unit","overview":"In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.","release_date":"1999-09-20","first_air_date":"1999-09-20","poster_path":"/iofokHZoUB4Qhik4PflvJl8TT6a.jpg","backdrop_path":"/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg","popularity":203.4915,"vote_average":7.94},{"id":124364,"media_type":"tv","title":"FROM","name":"FROM","overview":"Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.","release_date":"2022-02-20","first_air_date":"2022-02-20","poster_path":"/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg","backdrop_path":"/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg","popularity":201.0678,"vote_average":8.164},{"id":1416,"media_type":"tv","title":"Grey's Anatomy","name":"Grey's Anatomy","overview":"Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.","release_date":"2005-03-27","first_air_date":"2005-03-27","poster_path":"/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg","backdrop_path":"/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg","popularity":185.7089,"vote_average":8.208},{"id":1622,"media_type":"tv","title":"Supernatural","name":"Supernatural","overview":"When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ","release_date":"2005-09-13","first_air_date":"2005-09-13","poster_path":"/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg","backdrop_path":"/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg","popularity":179.1596,"vote_average":8.306}]};</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"984624980fce4bc2b76b3282a727d558","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
